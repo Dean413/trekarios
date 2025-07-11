@@ -1,5 +1,4 @@
 import { HashRouter as Router, Routes, Route } from "react-router-dom";
-import LandingPage from "./home";
 import About from "./About";
 import Contact from "./contact";
 import AnimalTreatments from "./services/animal-treatment";
@@ -11,6 +10,7 @@ import ChickBookings from "./services/chick-bookings";
 import Agrochemicals from "./services/agrochemicals";
 import FrequentlyAskedQuestions from "./faq";
 import ScrollToTop from "./scroll";
+import LandingPage from "./home";
 
 
 
