@@ -1,5 +1,23 @@
 @import "tailwindcss";
 
 
+    @theme {
+        --color-hbg: #8D704C;
+        --color-trek1: #C11F1F;
+        --color-trek2: #04143E;
+        --breakpoint-sm: 30rem;   
+    }
+
+    .p-styles {
+        @apply w-[100%];
+    }
+
+    .faq-styles {
+        @apply relative cursor-pointer font-bold;
+    }
+
+
+
+
 
 
